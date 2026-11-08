@@ -1,223 +1,223 @@
-[200~{
-	  "profile": {
-		      "title": "Django + React Full Stack Job Tracker",
-		          "subtitle": "Argentina · Remote · Buenos Aires hybrid",
-			      "emoji": "🐍"
-			        },
-				  "keywords": {
-					      "include": [
-						            "django developer",
-							          "django engineer",
-								        "django software engineer",
-									      "django backend",
-									            "django full stack",
-										          "django fullstack",
-											        "django full-stack",
-												      "python django",
-												            "python/django",
-													          "django react",
-														        "django/react",
-															      "react django",
-															            "react/django",
-																          "python react",
-																	        "python/react",
-																		      "python full stack",
-																		            "python fullstack",
-																			          "python full-stack",
-																				        "full stack python",
-																					      "fullstack python",
-																					            "full-stack python",
-																						          "full stack developer",
-																							        "full stack engineer",
-																								      "full stack software engineer",
-																								            "full stack web developer",
-																									          "fullstack developer",
-																										        "fullstack engineer",
-																											      "full-stack developer",
-																											            "full-stack engineer",
-																												          "full-stack software engineer",
-																													        "full stack react",
-																														      "fullstack react",
-																														            "full-stack react",
-																															          "react full stack",
-																																        "react fullstack",
-																																	      "react full-stack",
-																																	            "software engineer python",
-																																		          "software engineer react",
-																																			        "web developer python",
-																																				      "desarrollador full stack",
-																																				            "desarrollador fullstack",
-																																					          "desarrollador django",
-																																						        "desarrollador python",
-																																							      "desarrollador python django",
-																																							            "ingeniero full stack"
-																																								        ],
-																																									    "exclude": [
-																																										          "intern",
-																																											        "internship",
-																																												      "co-op",
-																																												            "trainee",
-																																													          "pasante",
-																																														        "pasantía",
-																																															      "entry level",
-																																															            "entry-level",
-																																																          "graduate",
-																																																	        "lead",
-																																																		      "principal",
-																																																		            "staff",
-																																																			          "architect",
-																																																				        "arquitecto",
-																																																					      "head of",
-																																																					            "director",
-																																																						          "manager",
-																																																							        "vp ",
-																																																								      ".net",
-																																																								            "java developer",
-																																																									          "java engineer",
-																																																										        "php",
-																																																											      "ruby",
-																																																											            "golang",
-																																																												          "angular",
-																																																													        "vue",
-																																																														      "salesforce",
-																																																														            "sap ",
-																																																															          "wordpress",
-																																																																        "data scientist",
-																																																																	      "devops engineer",
-																																																																	            "qa ",
-																																																																		          "tester"
-																																																																			      ]
-																																																																			        },
-																																																																				  "search_terms": {
-																																																																					      "linkedin": [
-																																																																						            "django react developer",
-																																																																							          "django react full stack",
-																																																																								        "python django react",
-																																																																									      "python react full stack developer",
-																																																																									            "full stack developer django",
-																																																																										          "full stack developer python react",
-																																																																											        "full stack engineer python react",
-																																																																												      "django developer",
-																																																																												            "django software engineer",
-																																																																													          "django backend developer",
-																																																																														        "django rest framework developer",
-																																																																															      "python django developer",
-																																																																															            "python full stack developer",
-																																																																																          "react python developer",
-																																																																																	        "full stack react developer",
-																																																																																		      "full stack web developer python",
-																																																																																		            "semi senior django developer",
-																																																																																			          "semi senior full stack python react",
-																																																																																				        "junior django developer",
-																																																																																					      "junior full stack python react",
-																																																																																					            "desarrollador full stack django react",
-																																																																																						          "desarrollador django",
-																																																																																							        "desarrollador python django"
-																																																																																								    ],
-																																																																																								        "indeed": [
-																																																																																										      "django react full stack",
-																																																																																										            "django developer",
-																																																																																											          "python django developer",
-																																																																																												        "full stack developer python react",
-																																																																																													      "python react developer",
-																																																																																													            "full stack django",
-																																																																																														          "desarrollador django react",
-																																																																																															        "desarrollador full stack python"
-																																																																																																    ],
-																																																																																																        "glassdoor": [
-																																																																																																		      "django react full stack",
-																																																																																																		            "django developer",
-																																																																																																			          "python django developer",
-																																																																																																				        "full stack developer python react",
-																																																																																																					      "python react developer",
-																																																																																																					            "full stack django"
-																																																																																																						        ],
-																																																																																																							    "ziprecruiter": [
-																																																																																																								          "django react full stack",
-																																																																																																									        "django developer",
-																																																																																																										      "python django developer",
-																																																																																																										            "full stack developer python react",
-																																																																																																											          "python react developer",
-																																																																																																												        "full stack django"
-																																																																																																													    ],
-																																																																																																													        "google_jobs": [
-																																																																																																															      "django react full stack developer",
-																																																																																																															            "django developer",
-																																																																																																																          "python django developer",
-																																																																																																																	        "full stack developer python react",
-																																																																																																																		      "python react developer",
-																																																																																																																		            "semi senior django developer"
-																																																																																																																			        ],
-																																																																																																																				    "hiring_cafe": [
-																																																																																																																					          "django react full stack",
-																																																																																																																						        "django developer",
-																																																																																																																							      "python django developer",
-																																																																																																																							            "full stack developer python react",
-																																																																																																																								          "python react developer",
-																																																																																																																									        "full stack django"
-																																																																																																																										    ]
-																																																																																																																										      },
-																																																																																																																										        "locations": {
-																																																																																																																												    "linkedin": [
-																																																																																																																													          { "name": "Buenos Aires (hybrid / on-site)", "location": "Buenos Aires, Buenos Aires, Argentina", "geoId": "" },
-																																																																																																																														        { "name": "Argentina (remote)", "location": "Argentina", "geoId": "" }
-																																																																																																																															    ],
-																																																																																																																															        "indeed": [
-																																																																																																																																	      { "location": "Buenos Aires", "country": "Argentina" },
-																																																																																																																																	            { "location": "Argentina", "country": "Argentina" }
-																																																																																																																																		        ],
-																																																																																																																																			    "glassdoor": [
-																																																																																																																																				          { "location": "Buenos Aires", "country": "Argentina" },
-																																																																																																																																					        { "location": "Argentina", "country": "Argentina" }
-																																																																																																																																						    ],
-																																																																																																																																						        "ziprecruiter": [],
-																																																																																																																																							    "google_jobs": [
-																																																																																																																																								          { "location": "Buenos Aires", "country": "Argentina" },
-																																																																																																																																									        { "location": "Argentina", "country": "Argentina" }
-																																																																																																																																										    ],
-																																																																																																																																										        "hiring_cafe": [
-																																																																																																																																												      { "location": "Argentina" }
-																																																																																																																																												          ]
-																																																																																																																																													    },
-																																																																																																																																													      "google_jobs": {
-																																																																																																																																														          "queries": [],
-																																																																																																																																															      "serpapi_api_key": "",
-																																																																																																																																															          "oxylabs_username": "",
-																																																																																																																																																      "oxylabs_password": ""
-																																																																																																																																																        },
-																																																																																																																																																	  "hiring_cafe": {
-																																																																																																																																																		      "max_pages": 3
-																																																																																																																																																		        },
-																																																																																																																																																			  "employers": {
-																																																																																																																																																				      "priority": [],
-																																																																																																																																																				          "exclude": [
-																																																																																																																																																						        "staffing",
-																																																																																																																																																							      "recruiting",
-																																																																																																																																																							            "recruitment",
-																																																																																																																																																								          "talent acquisition",
-																																																																																																																																																									        "consultora de rrhh"
-																																																																																																																																																										    ]
-																																																																																																																																																										      },
-																																																																																																																																																										        "priority_topics": {
-																																																																																																																																																												    "terms": [
-																																																																																																																																																													          ["Django", "\\bdjango\\b"],
-																																																																																																																																																														        ["Django REST Framework", "\\b(drf|django rest(\\s?framework)?)\\b"],
-																																																																																																																																																															      ["React", "\\breact(\\.?js)?\\b"],
-																																																																																																																																																															            ["Python", "\\bpython\\b"],
-																																																																																																																																																																          ["TypeScript", "\\btypescript\\b"]
-																																																																																																																																																																	      ]
-																																																																																																																																																																	        },
-																																																																																																																																																																		  "role_categories": {
-																																																																																																																																																																			      "terms": [
-																																																																																																																																																																				            ["Django + React Full Stack", "(django.*react|react.*django)"],
-																																																																																																																																																																					          ["Python Full Stack", "(python.*full[\\s-]?stack|full[\\s-]?stack.*python)"],
-																																																																																																																																																																						        ["React Full Stack", "(react.*full[\\s-]?stack|full[\\s-]?stack.*react)"],
-																																																																																																																																																																							      ["Django Developer", "\\bdjango\\b"],
-																																																																																																																																																																							            ["Full Stack Developer", "full[\\s-]?stack"],
-																																																																																																																																																																								          ["Python Developer", "\\bpython\\b"],
-																																																																																																																																																																									        ["Software Engineer", "software (engineer|developer)"],
-																																																																																																																																																																										      ["Desarrollador (ES)", "desarrollador|ingeniero"]
-																																																																																																																																																																										          ]
-																																																																																																																																																																											    },
-																																																																																																																																																																											      "notify": { "min_fit": 75 }
+{
+  "profile": {
+    "title": "Django + React Full Stack Job Tracker",
+    "subtitle": "Argentina · Remote · Buenos Aires hybrid",
+    "emoji": "🐍"
+  },
+  "keywords": {
+    "include": [
+      "django developer",
+      "django engineer",
+      "django software engineer",
+      "django backend",
+      "django full stack",
+      "django fullstack",
+      "django full-stack",
+      "python django",
+      "python/django",
+      "django react",
+      "django/react",
+      "react django",
+      "react/django",
+      "python react",
+      "python/react",
+      "python full stack",
+      "python fullstack",
+      "python full-stack",
+      "full stack python",
+      "fullstack python",
+      "full-stack python",
+      "full stack developer",
+      "full stack engineer",
+      "full stack software engineer",
+      "full stack web developer",
+      "fullstack developer",
+      "fullstack engineer",
+      "full-stack developer",
+      "full-stack engineer",
+      "full-stack software engineer",
+      "full stack react",
+      "fullstack react",
+      "full-stack react",
+      "react full stack",
+      "react fullstack",
+      "react full-stack",
+      "software engineer python",
+      "software engineer react",
+      "web developer python",
+      "desarrollador full stack",
+      "desarrollador fullstack",
+      "desarrollador django",
+      "desarrollador python",
+      "desarrollador python django",
+      "ingeniero full stack"
+    ],
+    "exclude": [
+      "intern",
+      "internship",
+      "co-op",
+      "trainee",
+      "pasante",
+      "pasantía",
+      "entry level",
+      "entry-level",
+      "graduate",
+      "lead",
+      "principal",
+      "staff",
+      "architect",
+      "arquitecto",
+      "head of",
+      "director",
+      "manager",
+      "vp ",
+      ".net",
+      "java developer",
+      "java engineer",
+      "php",
+      "ruby",
+      "golang",
+      "angular",
+      "vue",
+      "salesforce",
+      "sap ",
+      "wordpress",
+      "data scientist",
+      "devops engineer",
+      "qa ",
+      "tester"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "django react developer",
+      "django react full stack",
+      "python django react",
+      "python react full stack developer",
+      "full stack developer django",
+      "full stack developer python react",
+      "full stack engineer python react",
+      "django developer",
+      "django software engineer",
+      "django backend developer",
+      "django rest framework developer",
+      "python django developer",
+      "python full stack developer",
+      "react python developer",
+      "full stack react developer",
+      "full stack web developer python",
+      "semi senior django developer",
+      "semi senior full stack python react",
+      "junior django developer",
+      "junior full stack python react",
+      "desarrollador full stack django react",
+      "desarrollador django",
+      "desarrollador python django"
+    ],
+    "indeed": [
+      "django react full stack",
+      "django developer",
+      "python django developer",
+      "full stack developer python react",
+      "python react developer",
+      "full stack django",
+      "desarrollador django react",
+      "desarrollador full stack python"
+    ],
+    "glassdoor": [
+      "django react full stack",
+      "django developer",
+      "python django developer",
+      "full stack developer python react",
+      "python react developer",
+      "full stack django"
+    ],
+    "ziprecruiter": [
+      "django react full stack",
+      "django developer",
+      "python django developer",
+      "full stack developer python react",
+      "python react developer",
+      "full stack django"
+    ],
+    "google_jobs": [
+      "django react full stack developer",
+      "django developer",
+      "python django developer",
+      "full stack developer python react",
+      "python react developer",
+      "semi senior django developer"
+    ],
+    "hiring_cafe": [
+      "django react full stack",
+      "django developer",
+      "python django developer",
+      "full stack developer python react",
+      "python react developer",
+      "full stack django"
+    ]
+  },
+  "locations": {
+    "linkedin": [
+      { "name": "Buenos Aires (hybrid / on-site)", "location": "Buenos Aires, Buenos Aires, Argentina", "geoId": "" },
+      { "name": "Argentina (remote)", "location": "Argentina", "geoId": "" }
+    ],
+    "indeed": [
+      { "location": "Buenos Aires", "country": "Argentina" },
+      { "location": "Argentina", "country": "Argentina" }
+    ],
+    "glassdoor": [
+      { "location": "Buenos Aires", "country": "Argentina" },
+      { "location": "Argentina", "country": "Argentina" }
+    ],
+    "ziprecruiter": [],
+    "google_jobs": [
+      { "location": "Buenos Aires", "country": "Argentina" },
+      { "location": "Argentina", "country": "Argentina" }
+    ],
+    "hiring_cafe": [
+      { "location": "Argentina" }
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "priority": [],
+    "exclude": [
+      "staffing",
+      "recruiting",
+      "recruitment",
+      "talent acquisition",
+      "consultora de rrhh"
+    ]
+  },
+  "priority_topics": {
+    "terms": [
+      ["Django", "\\bdjango\\b"],
+      ["Django REST Framework", "\\b(drf|django rest(\\s?framework)?)\\b"],
+      ["React", "\\breact(\\.?js)?\\b"],
+      ["Python", "\\bpython\\b"],
+      ["TypeScript", "\\btypescript\\b"]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      ["Django + React Full Stack", "(django.*react|react.*django)"],
+      ["Python Full Stack", "(python.*full[\\s-]?stack|full[\\s-]?stack.*python)"],
+      ["React Full Stack", "(react.*full[\\s-]?stack|full[\\s-]?stack.*react)"],
+      ["Django Developer", "\\bdjango\\b"],
+      ["Full Stack Developer", "full[\\s-]?stack"],
+      ["Python Developer", "\\bpython\\b"],
+      ["Software Engineer", "software (engineer|developer)"],
+      ["Desarrollador (ES)", "desarrollador|ingeniero"]
+    ]
+  },
+  "notify": { "min_fit": 75 }
 }
